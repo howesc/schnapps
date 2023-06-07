@@ -50,9 +50,6 @@
   {JSON.stringify(quote, null, 2)}
 </pre> -->
 <style>
-	td {
-		font-size: large;
-	}
 
 	.name {
 		@apply font-bold text-2xl;
